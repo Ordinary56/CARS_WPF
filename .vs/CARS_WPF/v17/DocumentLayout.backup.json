@@ -1,74 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\balogh.tamas2\\Desktop\\\u00DAj mappa\\",
+  "WorkspaceRootPath": "C:\\Users\\balogh.tamas2\\Desktop\\CARS_WPF\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BDFA5819-E290-4164-AC1B-BA45BD3CE987}|CARS_WPF.csproj|c:\\users\\balogh.tamas2\\desktop\\\u00FAj mappa\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDFA5819-E290-4164-AC1B-BA45BD3CE987}|CARS_WPF.csproj|solutionrelative:model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDFA5819-E290-4164-AC1B-BA45BD3CE987}|CARS_WPF.csproj|c:\\users\\balogh.tamas2\\desktop\\\u00FAj mappa\\data\\mysqlsampledatabase.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{BDFA5819-E290-4164-AC1B-BA45BD3CE987}|CARS_WPF.csproj|solutionrelative:data\\mysqlsampledatabase.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDFA5819-E290-4164-AC1B-BA45BD3CE987}|CARS_WPF.csproj|c:\\users\\balogh.tamas2\\desktop\\\u00FAj mappa\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDFA5819-E290-4164-AC1B-BA45BD3CE987}|CARS_WPF.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDFA5819-E290-4164-AC1B-BA45BD3CE987}|CARS_WPF.csproj|c:\\users\\balogh.tamas2\\desktop\\\u00FAj mappa\\repositories\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDFA5819-E290-4164-AC1B-BA45BD3CE987}|CARS_WPF.csproj|solutionrelative:repositories\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDFA5819-E290-4164-AC1B-BA45BD3CE987}|CARS_WPF.csproj|c:\\users\\balogh.tamas2\\desktop\\\u00FAj mappa\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{BDFA5819-E290-4164-AC1B-BA45BD3CE987}|CARS_WPF.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDFA5819-E290-4164-AC1B-BA45BD3CE987}|CARS_WPF.csproj|c:\\users\\balogh.tamas2\\desktop\\\u00FAj mappa\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDFA5819-E290-4164-AC1B-BA45BD3CE987}|CARS_WPF.csproj|solutionrelative:model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDFA5819-E290-4164-AC1B-BA45BD3CE987}|CARS_WPF.csproj|c:\\users\\balogh.tamas2\\desktop\\\u00FAj mappa\\repositories\\customerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDFA5819-E290-4164-AC1B-BA45BD3CE987}|CARS_WPF.csproj|solutionrelative:repositories\\customerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDFA5819-E290-4164-AC1B-BA45BD3CE987}|CARS_WPF.csproj|c:\\users\\balogh.tamas2\\desktop\\\u00FAj mappa\\repositories\\productcountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BDFA5819-E290-4164-AC1B-BA45BD3CE987}|CARS_WPF.csproj|c:\\users\\balogh.tamas2\\desktop\\cars_wpf\\repositories\\productcountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDFA5819-E290-4164-AC1B-BA45BD3CE987}|CARS_WPF.csproj|solutionrelative:repositories\\productcountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDFA5819-E290-4164-AC1B-BA45BD3CE987}|CARS_WPF.csproj|c:\\users\\balogh.tamas2\\desktop\\\u00FAj mappa\\repositories\\orderrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDFA5819-E290-4164-AC1B-BA45BD3CE987}|CARS_WPF.csproj|solutionrelative:repositories\\orderrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDFA5819-E290-4164-AC1B-BA45BD3CE987}|CARS_WPF.csproj|c:\\users\\balogh.tamas2\\desktop\\\u00FAj mappa\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BDFA5819-E290-4164-AC1B-BA45BD3CE987}|CARS_WPF.csproj|c:\\users\\balogh.tamas2\\desktop\\cars_wpf\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDFA5819-E290-4164-AC1B-BA45BD3CE987}|CARS_WPF.csproj|solutionrelative:model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDFA5819-E290-4164-AC1B-BA45BD3CE987}|CARS_WPF.csproj|c:\\users\\balogh.tamas2\\desktop\\\u00FAj mappa\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDFA5819-E290-4164-AC1B-BA45BD3CE987}|CARS_WPF.csproj|solutionrelative:repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDFA5819-E290-4164-AC1B-BA45BD3CE987}|CARS_WPF.csproj|c:\\users\\balogh.tamas2\\desktop\\\u00FAj mappa\\repositories\\countryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDFA5819-E290-4164-AC1B-BA45BD3CE987}|CARS_WPF.csproj|solutionrelative:repositories\\countryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDFA5819-E290-4164-AC1B-BA45BD3CE987}|CARS_WPF.csproj|c:\\users\\balogh.tamas2\\desktop\\\u00FAj mappa\\model\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BDFA5819-E290-4164-AC1B-BA45BD3CE987}|CARS_WPF.csproj|c:\\users\\balogh.tamas2\\desktop\\cars_wpf\\model\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDFA5819-E290-4164-AC1B-BA45BD3CE987}|CARS_WPF.csproj|solutionrelative:model\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDFA5819-E290-4164-AC1B-BA45BD3CE987}|CARS_WPF.csproj|c:\\users\\balogh.tamas2\\desktop\\\u00FAj mappa\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDFA5819-E290-4164-AC1B-BA45BD3CE987}|CARS_WPF.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BDFA5819-E290-4164-AC1B-BA45BD3CE987}|CARS_WPF.csproj|c:\\users\\balogh.tamas2\\desktop\\cars_wpf\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDFA5819-E290-4164-AC1B-BA45BD3CE987}|CARS_WPF.csproj|solutionrelative:model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDFA5819-E290-4164-AC1B-BA45BD3CE987}|CARS_WPF.csproj|c:\\users\\balogh.tamas2\\desktop\\\u00FAj mappa\\helpers\\readerrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDFA5819-E290-4164-AC1B-BA45BD3CE987}|CARS_WPF.csproj|solutionrelative:helpers\\readerrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BDFA5819-E290-4164-AC1B-BA45BD3CE987}|CARS_WPF.csproj|c:\\users\\balogh.tamas2\\desktop\\cars_wpf\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDFA5819-E290-4164-AC1B-BA45BD3CE987}|CARS_WPF.csproj|solutionrelative:model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDFA5819-E290-4164-AC1B-BA45BD3CE987}|CARS_WPF.csproj|c:\\users\\balogh.tamas2\\desktop\\\u00FAj mappa\\cars_wpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{BDFA5819-E290-4164-AC1B-BA45BD3CE987}|CARS_WPF.csproj|solutionrelative:cars_wpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{BDFA5819-E290-4164-AC1B-BA45BD3CE987}|CARS_WPF.csproj|c:\\users\\balogh.tamas2\\desktop\\cars_wpf\\repositories\\customerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDFA5819-E290-4164-AC1B-BA45BD3CE987}|CARS_WPF.csproj|solutionrelative:repositories\\customerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDFA5819-E290-4164-AC1B-BA45BD3CE987}|CARS_WPF.csproj|c:\\users\\balogh.tamas2\\desktop\\\u00FAj mappa\\data\\mysqlsampledatabase.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{BDFA5819-E290-4164-AC1B-BA45BD3CE987}|CARS_WPF.csproj|solutionrelative:data\\mysqlsampledatabase.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+      "AbsoluteMoniker": "D:0:0:{BDFA5819-E290-4164-AC1B-BA45BD3CE987}|CARS_WPF.csproj|c:\\users\\balogh.tamas2\\desktop\\cars_wpf\\repositories\\countryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDFA5819-E290-4164-AC1B-BA45BD3CE987}|CARS_WPF.csproj|solutionrelative:repositories\\countryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,216 +38,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "OrderRepo.cs",
-              "DocumentMoniker": "C:\\Users\\balogh.tamas2\\Desktop\\\u00DAj mappa\\Repositories\\OrderRepo.cs",
-              "RelativeDocumentMoniker": "Repositories\\OrderRepo.cs",
-              "ToolTip": "C:\\Users\\balogh.tamas2\\Desktop\\\u00DAj mappa\\Repositories\\OrderRepo.cs",
-              "RelativeToolTip": "Repositories\\OrderRepo.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAowB4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T11:45:46.678Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\balogh.tamas2\\Desktop\\\u00DAj mappa\\Model\\Order.cs",
-              "RelativeDocumentMoniker": "Model\\Order.cs",
-              "ToolTip": "C:\\Users\\balogh.tamas2\\Desktop\\\u00DAj mappa\\Model\\Order.cs",
-              "RelativeToolTip": "Model\\Order.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAxwBQAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T11:38:18.633Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\balogh.tamas2\\Desktop\\\u00DAj mappa\\AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\balogh.tamas2\\Desktop\\\u00DAj mappa\\AssemblyInfo.cs",
-              "RelativeToolTip": "AssemblyInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T10:11:01.444Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CustomerRepo.cs",
-              "DocumentMoniker": "C:\\Users\\balogh.tamas2\\Desktop\\\u00DAj mappa\\Repositories\\CustomerRepo.cs",
-              "RelativeDocumentMoniker": "Repositories\\CustomerRepo.cs",
-              "ToolTip": "C:\\Users\\balogh.tamas2\\Desktop\\\u00DAj mappa\\Repositories\\CustomerRepo.cs",
-              "RelativeToolTip": "Repositories\\CustomerRepo.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAwBMAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T10:04:42.984Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CountryRepo.cs",
-              "DocumentMoniker": "C:\\Users\\balogh.tamas2\\Desktop\\\u00DAj mappa\\Repositories\\CountryRepo.cs",
-              "RelativeDocumentMoniker": "Repositories\\CountryRepo.cs",
-              "ToolTip": "C:\\Users\\balogh.tamas2\\Desktop\\\u00DAj mappa\\Repositories\\CountryRepo.cs",
-              "RelativeToolTip": "Repositories\\CountryRepo.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAowBMAAABaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T10:00:53.66Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Country.cs",
-              "DocumentMoniker": "C:\\Users\\balogh.tamas2\\Desktop\\\u00DAj mappa\\Model\\Country.cs",
-              "RelativeDocumentMoniker": "Model\\Country.cs",
-              "ToolTip": "C:\\Users\\balogh.tamas2\\Desktop\\\u00DAj mappa\\Model\\Country.cs",
-              "RelativeToolTip": "Model\\Country.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T10:00:05.631Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\balogh.tamas2\\Desktop\\\u00DAj mappa\\Model\\Customer.cs",
+              "DocumentMoniker": "C:\\Users\\balogh.tamas2\\Desktop\\CARS_WPF\\Model\\Customer.cs",
               "RelativeDocumentMoniker": "Model\\Customer.cs",
-              "ToolTip": "C:\\Users\\balogh.tamas2\\Desktop\\\u00DAj mappa\\Model\\Customer.cs",
+              "ToolTip": "C:\\Users\\balogh.tamas2\\Desktop\\CARS_WPF\\Model\\Customer.cs",
               "RelativeToolTip": "Model\\Customer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T09:58:43.171Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProductCountRepo.cs",
-              "DocumentMoniker": "C:\\Users\\balogh.tamas2\\Desktop\\\u00DAj mappa\\Repositories\\ProductCountRepo.cs",
-              "RelativeDocumentMoniker": "Repositories\\ProductCountRepo.cs",
-              "ToolTip": "C:\\Users\\balogh.tamas2\\Desktop\\\u00DAj mappa\\Repositories\\ProductCountRepo.cs",
-              "RelativeToolTip": "Repositories\\ProductCountRepo.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAYwCEAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T09:48:25.257Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ReaderRow.cs",
-              "DocumentMoniker": "C:\\Users\\balogh.tamas2\\Desktop\\\u00DAj mappa\\Helpers\\ReaderRow.cs",
-              "RelativeDocumentMoniker": "Helpers\\ReaderRow.cs",
-              "ToolTip": "C:\\Users\\balogh.tamas2\\Desktop\\\u00DAj mappa\\Helpers\\ReaderRow.cs",
-              "RelativeToolTip": "Helpers\\ReaderRow.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T09:23:08.413Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductRepo.cs",
-              "DocumentMoniker": "C:\\Users\\balogh.tamas2\\Desktop\\\u00DAj mappa\\Repositories\\ProductRepo.cs",
-              "RelativeDocumentMoniker": "Repositories\\ProductRepo.cs",
-              "ToolTip": "C:\\Users\\balogh.tamas2\\Desktop\\\u00DAj mappa\\Repositories\\ProductRepo.cs",
-              "RelativeToolTip": "Repositories\\ProductRepo.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAwwCoAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T09:12:50.157Z",
+              "WhenOpened": "2025-03-03T07:28:02.237Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\balogh.tamas2\\Desktop\\\u00DAj mappa\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\balogh.tamas2\\Desktop\\\u00DAj mappa\\MainWindow.xaml.cs",
-              "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAAFYAAAAAAAAAAAAmwGsAAAAEAAAAAAAAAA==",
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\balogh.tamas2\\Desktop\\CARS_WPF\\Model\\Country.cs",
+              "RelativeDocumentMoniker": "Model\\Country.cs",
+              "ToolTip": "C:\\Users\\balogh.tamas2\\Desktop\\CARS_WPF\\Model\\Country.cs",
+              "RelativeToolTip": "Model\\Country.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T09:12:16.909Z",
+              "WhenOpened": "2025-03-03T07:27:58.286Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "CARS_WPF",
-              "DocumentMoniker": "C:\\Users\\balogh.tamas2\\Desktop\\\u00DAj mappa\\CARS_WPF.csproj",
-              "RelativeDocumentMoniker": "CARS_WPF.csproj",
-              "ToolTip": "C:\\Users\\balogh.tamas2\\Desktop\\\u00DAj mappa\\CARS_WPF.csproj",
-              "RelativeToolTip": "CARS_WPF.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-27T09:12:03.88Z",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\balogh.tamas2\\Desktop\\CARS_WPF\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "Model\\Product.cs",
+              "ToolTip": "C:\\Users\\balogh.tamas2\\Desktop\\CARS_WPF\\Model\\Product.cs",
+              "RelativeToolTip": "Model\\Product.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T07:27:55.709Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\balogh.tamas2\\Desktop\\\u00DAj mappa\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "C:\\Users\\balogh.tamas2\\Desktop\\\u00DAj mappa\\MainWindow.xaml",
-              "RelativeToolTip": "MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-27T09:11:59.766Z",
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\balogh.tamas2\\Desktop\\CARS_WPF\\Model\\Order.cs",
+              "RelativeDocumentMoniker": "Model\\Order.cs",
+              "ToolTip": "C:\\Users\\balogh.tamas2\\Desktop\\CARS_WPF\\Model\\Order.cs",
+              "RelativeToolTip": "Model\\Order.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T07:27:49.509Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\balogh.tamas2\\Desktop\\\u00DAj mappa\\Model\\Product.cs",
-              "RelativeDocumentMoniker": "Model\\Product.cs",
-              "ToolTip": "C:\\Users\\balogh.tamas2\\Desktop\\\u00DAj mappa\\Model\\Product.cs*",
-              "RelativeToolTip": "Model\\Product.cs*",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAEwAwAAAAWAAAAAAAAAA==",
+              "Title": "ProductCountRepo.cs",
+              "DocumentMoniker": "C:\\Users\\balogh.tamas2\\Desktop\\CARS_WPF\\Repositories\\ProductCountRepo.cs",
+              "RelativeDocumentMoniker": "Repositories\\ProductCountRepo.cs",
+              "ToolTip": "C:\\Users\\balogh.tamas2\\Desktop\\CARS_WPF\\Repositories\\ProductCountRepo.cs*",
+              "RelativeToolTip": "Repositories\\ProductCountRepo.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBwAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T09:09:08.913Z",
+              "WhenOpened": "2025-03-03T07:25:12.616Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "RepositoryBase.cs",
-              "DocumentMoniker": "C:\\Users\\balogh.tamas2\\Desktop\\\u00DAj mappa\\Repositories\\RepositoryBase.cs",
-              "RelativeDocumentMoniker": "Repositories\\RepositoryBase.cs",
-              "ToolTip": "C:\\Users\\balogh.tamas2\\Desktop\\\u00DAj mappa\\Repositories\\RepositoryBase.cs",
-              "RelativeToolTip": "Repositories\\RepositoryBase.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAYwA8AAAAIAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "CustomerRepo.cs",
+              "DocumentMoniker": "C:\\Users\\balogh.tamas2\\Desktop\\CARS_WPF\\Repositories\\CustomerRepo.cs",
+              "RelativeDocumentMoniker": "Repositories\\CustomerRepo.cs",
+              "ToolTip": "C:\\Users\\balogh.tamas2\\Desktop\\CARS_WPF\\Repositories\\CustomerRepo.cs",
+              "RelativeToolTip": "Repositories\\CustomerRepo.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T09:04:45.042Z",
+              "WhenOpened": "2025-03-03T07:25:08.524Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "mysqlsampledatabase.sql ",
-              "DocumentMoniker": "C:\\Users\\balogh.tamas2\\Desktop\\\u00DAj mappa\\Data\\mysqlsampledatabase.sql",
-              "RelativeDocumentMoniker": "Data\\mysqlsampledatabase.sql",
-              "ToolTip": "C:\\Users\\balogh.tamas2\\Desktop\\\u00DAj mappa\\Data\\mysqlsampledatabase.sql",
-              "RelativeToolTip": "Data\\mysqlsampledatabase.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-02-27T09:04:15.113Z",
+              "DocumentIndex": 6,
+              "Title": "CountryRepo.cs",
+              "DocumentMoniker": "C:\\Users\\balogh.tamas2\\Desktop\\CARS_WPF\\Repositories\\CountryRepo.cs",
+              "RelativeDocumentMoniker": "Repositories\\CountryRepo.cs",
+              "ToolTip": "C:\\Users\\balogh.tamas2\\Desktop\\CARS_WPF\\Repositories\\CountryRepo.cs",
+              "RelativeToolTip": "Repositories\\CountryRepo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T07:25:06.696Z",
               "EditorCaption": ""
             }
           ]

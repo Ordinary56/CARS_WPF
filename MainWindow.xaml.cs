@@ -61,7 +61,7 @@ public partial class MainWindow : Window
             int res = await count.GetProductCount(product);
             await Dispatcher.BeginInvoke(() =>
             {
-                lbl_countResult.Content = $"Termékek száma: {res}";
+                lbl_countResult.Content = res != 0 ? $"Termékek száma: {res}" : "Nincs megrendelés erre a termékre";
             });
         }
     }

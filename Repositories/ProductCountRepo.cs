@@ -20,19 +20,14 @@ namespace CARS_WPF.Repositories
             }
             var conn = GetConnection();
             await conn.OpenAsync();
-            int result = 0;
             MySqlCommand cmd = new()
             {
                 CommandText = "SELECT quantityOrdered FROM orderdetails WHERE productCode=@Code",
                 Connection = conn
             };
             cmd.Parameters.AddWithValue("@Code", product.ProductCode);
-            var reader = await cmd.ExecuteReaderAsync();
-            while (await reader.ReadAsync()) 
-            {
-                result++;
-            }
-            return result;
+            int orderCount =  Convert.ToInt32(await cmd.ExecuteScalarAsync());
+            return orderCount;
         }
     }
 }
